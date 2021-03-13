@@ -1,0 +1,14 @@
+baseURL = "http://cgc-signs.co.uk/"
+languageCode = "en-gb"
+title = "Christopher Childs Signwriting"
+theme = "sam"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    homepage             = "Home"
+    footerText           = "Christopher Childs | 2021"
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "Posts"
