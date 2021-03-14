@@ -1,0 +1,24 @@
+{
+  "name": "cgc-signs",
+  "version": "1.0.0",
+  "description": "Hugo site dependencies for Sam theme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttc6/cgc-signs.git"
+  },
+  "author": "Thomas Childs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tttc6/cgc-signs/issues"
+  },
+  "homepage": "https://github.com/tttc6/cgc-signs#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "postcss-cli": "^8.3.1"
+  }
+}
